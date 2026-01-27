@@ -1,7 +1,7 @@
 Project Foam is an application that will centralize upcoming and existing mobile and non-mobile Auto Detailers
 
 ## Getting Started
-
+Next.js | Tailwind CSS | TypeScript
 First, run the development server:
 
 ```bash
