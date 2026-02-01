@@ -36,10 +36,11 @@ const shop = {
     "Over 10 years of experience in premium detailing and ceramic coatings. We specialize in paint correction, interior deep cleaning and ceramic coatings to make your car look brand new.",
   serving: ["Fairfax", "Chantilly", "Centreville"],
   gallery: [
-    "/project-foam.png",
-    "/next.svg",
-    "/globe.svg",
-    "/vercel.svg"
+    "/detail-foam.jpg",
+    "/car-detailing-1.jpg",
+    "/shine-shop.webp",
+    "/interior-steam.webp",
+    "/auto-detailing-2.webp"
   ],
   services: [
     {
